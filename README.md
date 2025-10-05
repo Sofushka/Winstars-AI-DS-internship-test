@@ -5,7 +5,8 @@ This repository contains two folders corresponding to the internship projects.
 ## Folder Contents
 
 - Task 1: Three model variants for evaluating the MNIST dataset with a common interface (Random Forest, Feed-Forward Neural Network, Convolutional Neural Network).  
-- Task 2: [Description of Task 2 goes here].
+- Task 2: ML pipeline that consists of two models(NLP, Computer Vision) responsible for 
+checking the correspondence of the animal in the text and in the image.
 
 ## Each folder contains
 
